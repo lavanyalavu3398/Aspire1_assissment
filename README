@@ -1,0 +1,2 @@
+Used Thead.sleep() for some steps because there were some components where were not respondable even if we use the implicit or explicit wait
+The Input can be changed or It can be as it is 
